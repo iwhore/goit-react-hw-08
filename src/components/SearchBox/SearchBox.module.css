@@ -1,0 +1,15 @@
+.container {
+  margin: 0 auto;
+}
+
+.text {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.input {
+  width: 220px;
+  border-radius: 6px;
+}
